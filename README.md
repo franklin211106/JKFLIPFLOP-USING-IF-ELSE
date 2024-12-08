@@ -1,6 +1,9 @@
+
+# NAME:FRANKLIN.F
+# REFNO.24900641
 # JKFLIPFLOP-USING-IF-ELSE
 
-**AIM:** 
+# AIM: 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
 
@@ -36,13 +39,17 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 /* write all the steps invloved */
 
-**PROGRAM**
+# PROGRAM
+![Screenshot 2024-12-08 152448](https://github.com/user-attachments/assets/896d1a5c-4eb7-4df9-ad46-90479f150363)
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
-**RTL LOGIC FOR FLIPFLOPS**
+# RTL LOGIC FOR FLIPFLOPS
+![Screenshot 2024-12-08 152603](https://github.com/user-attachments/assets/f5b9ec37-f1f7-4b0e-a1c8-c97e11703f48)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+# TIMING DIGRAMS FOR FLIP FLOPS
+![Screenshot 2024-12-08 152625](https://github.com/user-attachments/assets/c2e926bc-96af-4afc-a5c7-38cc00f9a0bf)
 
-**RESULTS**
+# RESULTS
+To implement  JK flipflop using verilog and validating their functionality using their functional tables
