@@ -63,8 +63,7 @@ Compare the simulated results with the truth table for a JK Flip-Flop.
 
 ![Screenshot 2024-12-09 102802](https://github.com/user-attachments/assets/60014d6a-98f8-4411-9323-b74f02851884)
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+
 
 # RTL LOGIC FOR FLIPFLOPS
 ![Screenshot 2024-12-09 102750](https://github.com/user-attachments/assets/2b50fad2-d9d7-4012-827d-9b3236954176)
